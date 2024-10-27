@@ -1,5 +1,3 @@
 print("Hello world!")
-<<<<<<< HEAD
-=======
-print("Hello once again")
->>>>>>> d67b3c03b79dac9d7aff6075d461aab24bdfe673
+print("Hello darkness my old friend")
+print("I've come to talk with you again")
